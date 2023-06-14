@@ -6,7 +6,7 @@
   <li>O CSS incluído estiliza a barra de navegação, fornecendo uma aparência moderna e atraente.</li>
   <li>O código JavaScript permite a funcionalidade de um botão hamburguer, que exibe o menu de navegação em dispositivos móveis. Quando o botão hamburguer é clicado, o menu é revelado suavemente na tela. A interação do           usuário é aprimorada com efeitos de transição suaves. </li>
   <li>Este código é fácil de personalizar e pode ser adaptado para atender às necessidades específicas do seu projeto. Utilize este repositório como ponto de partida para implementar uma barra de navegação responsiva e           elegante em seus projetos web.</li>
-  <li><a href="https://gabrielmendes16.github.io/responsive-NavBar/#">Para conferir Clique aqui!</link>
+  <li><a href="https://gabrielmendes16.github.io/responsive-NavBar/#" target="_blank">Para conferir Clique aqui!</link>
 </ul>
 
 
